@@ -1,17 +1,14 @@
-Casos de Uso 
+💡 Sobre o Projeto 💡 
 
-- Análise de comportamento de consumo 
-- Gestão de risco de crédito 
-- Segmentação de clientes 
-- Decisão sobre concessão de crédito 
-- Marketing personalizado 
-- Planejamento de expansão regional
+Este projeto foi desenvolvido como uma Prova de Conceito com o objetivo de simular a resolução de uma dor real enfrentada por empresas no tratamento e análise de dados. 
+A proposta consistia em explorar um banco de dados bruto, identificar padrões relevantes e extrair insights estratégicos com foco nas necessidades do cliente.
 
-Análises Realizadas
-1. Gasto por tipo de estabelecimento 
-2. Evolução dos gastos mensais 
-3. Distribuição do limite por estado 
-4. Comparativo de gastos por sexo e idade 
-5. Cidades com maior volume de compras 
-6. Limite médio por faixa etária 
-7. Percentual do limite gasto por estado
+Utilizamos Python como linguagem principal, aproveitando seu rico ecossistema de bibliotecas para ciência de dados e automação.
+
+Conexão e tratamento de dados de diferentes fontes;
+Análise exploratória de dados para entender a estrutura e distribuição das informações;
+Limpeza e transformação dos dados para tornar o dataset mais consistente e utilizável;
+Geração de relatórios automatizados e visualizações com ferramentas como Pandas, Matplotlib e Seaborn, para facilitar a comunicação dos achados;
+Prototipação de funcionalidades que poderiam ser evoluídas para um produto final, com base nas descobertas da análise.
+
+Esta PoC serviu como um experimento técnico e estratégico para validar a viabilidade de um sistema analítico inteligente, que possa ser futuramente integrado a plataformas corporativas.
